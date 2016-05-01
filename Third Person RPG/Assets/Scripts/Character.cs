@@ -11,7 +11,7 @@ public class Character
     {
         _Health = 20;
         _Attack = 5;
-        _Defense = 3;
+        _Defense = 3; 
     }
     public Character(int health, int attack, int defense)
     {
